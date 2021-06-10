@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints/
+embeddings-l-model.vec
+pytorch_model.bin
+dataset/*.npy
+dataset/*.npz
